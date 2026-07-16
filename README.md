@@ -4,7 +4,7 @@
 * **Tableau Dashboard:** [View Live Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/emma.dumonseau/viz/HRAnalyticsExecutiveDashboard_17841510951080/HRAnalyticsExecutiveDashboard)
 * **Python Notebook:** [View Python Cleaning & EDA Code](https://github.com/emmadumonseau/Retention-Workforce-Performance-Analytics/blob/main/HR%20Python%20Noteboo)
 * **Cleaned HR Dataset:** [Access Cleaned Dataset (Excel)](https://github.com/emmadumonseau/Retention-Workforce-Performance-Analytics/blob/main/Clean_HR_Dataset.xlsx)
-* **Raw Dataset:** [Access Raw Source Data (CSV)]([https://github.com/emmadumonseau/Retention-Workforce-Performance-Analytics/blob/main/Messy_HR_Dataset_Deta](https://github.com/emmadumonseau/Retention-Workforce-Performance-Analytics/blob/main/Messy_HR_Dataset_Detailed.csv))
+* **Raw Dataset:** [Access Raw Source Data (CSV)](https://github.com/emmadumonseau/Retention-Workforce-Performance-Analytics/blob/main/Messy_HR_Dataset_Detailed.csv)
 
 ---
 
